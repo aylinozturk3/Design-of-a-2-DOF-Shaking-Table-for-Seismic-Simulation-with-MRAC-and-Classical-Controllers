@@ -26,3 +26,7 @@ Dynamic modeling of 2-DOF table
 Controller design and tuning
 
 Closed-loop simulations under earthquake-like disturbances
+
+Here is the setup:
+
+![Ball-on-Plate Setup](2doftable.jpeg)
